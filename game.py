@@ -57,3 +57,6 @@ Button(root, font = 'arial 15 bold', text = 'EXIT'  ,padx =5,bg ='seashell4' ,co
 
 
 root.mainloop()
+
+
+#source: https://data-flair.training/blogs/python-rock-paper-scissors-game/
