@@ -1,6 +1,4 @@
 # AI-project
 
-Name: Harshit Dave
-Roll No.: 2019IMT-036
-
-
+**Name**: _Harshit Dave_ <br>
+**Roll No.**: _2019IMT-036_
